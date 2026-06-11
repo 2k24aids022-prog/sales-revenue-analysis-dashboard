@@ -10,7 +10,7 @@ This project showcases an interactive Sales Revenue & Analysis Dashboard develop
 - Microsoft Excel / CSV Dataset
 
 ## Dashboard Preview
-![Sales Dashboard](dashboard.png)
+<img width="1277" height="792" alt="image" src="https://github.com/user-attachments/assets/49fb88e2-db7d-4a9a-91cd-7146d93a12fa" />
 
 ## Key Insights
 - Analyzed overall sales revenue and profit performance.
